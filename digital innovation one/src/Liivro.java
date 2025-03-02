@@ -31,6 +31,7 @@ public class Liivro {
     }
 
     // Métodos
+    //Não está com a metoddlogia SOLID, esqueci, fui mlk
     public void emprestar() {
         if (disponivel) {
             disponivel = false;
